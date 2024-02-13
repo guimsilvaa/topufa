@@ -12,9 +12,9 @@ TOol for handling with Pdb-Uniprot-Fasta conversion and Alignment
 
 3) Fetch corresponding FASTA
 
-4) Create a blast database with these
+4) Create a BLAST database with these
 
-5) Alignment using blastp with your assigned input query fasta file
+5) BLASTp alignment between this database and your assigned input-query fasta file
 
 6) Output several lists/csv files demonstrating the conversions generated throughout the script execution PLUS output_blastp.txt with the alignment results
 
